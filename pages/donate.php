@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from themepresss.com/tf/html/sadakat-live/donate.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 May 2023 09:09:56 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -79,7 +80,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="logo"></a>
+                        <a class="navbar-brand" href="?page=Home"><img src="assets/images/logo.png" alt="logo"></a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                         <button class="close-navbar"><i class="ti-close"></i></button>
@@ -87,7 +88,7 @@
                             <li class="menu-item-has-children">
                                 <a href="#">Home</a>
                                 <ul class="sub-menu">
-                                    <li><a href="index.html">Home style 1</a></li>
+                                    <li><a href="?page=Home">Home style 1</a></li>
                                     <li><a href="index-2.html">Home style 2</a></li>
                                     <li><a href="index-3.html">Home style 3</a></li>
                                 </ul>
@@ -194,7 +195,7 @@
                         <div class="tp-breadcumb-wrap">
                             <h2>Donate Now</h2>
                             <ul>
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="?page=Home">Home</a></li>
                                 <li><span>Donate</span></li>
                             </ul>
                         </div>
@@ -418,7 +419,7 @@
                             <div class="col col-lg-3 col-md-3 col-sm-6">
                                 <div class="widget instagram">
                                     <div class="widget-title">
-                                         <h3>Instagram</h3>
+                                        <h3>Instagram</h3>
                                     </div>
                                     <ul class="d-flex">
                                         <li><a href="#"><img src="assets/images/instragram/1.jpg" alt=""></a></li>
@@ -449,9 +450,9 @@
     <!-- end of page-wrapper -->
     <!-- theme-change-btn -->
     <div class="theme-change-btn">
-         <button id="change-theme-btn">
+        <button id="change-theme-btn">
             <span class="cng-btn-1">Light <i class="ti-palette"></i></span>
-            <span class="cng-btn-2">Dark  <i class="ti-palette"></i></span>
+            <span class="cng-btn-2">Dark <i class="ti-palette"></i></span>
         </button>
     </div>
     <div id="magic-cursor">
@@ -474,4 +475,5 @@
 
 
 <!-- Mirrored from themepresss.com/tf/html/sadakat-live/donate.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 May 2023 09:10:00 GMT -->
+
 </html>

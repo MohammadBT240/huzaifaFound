@@ -165,6 +165,10 @@
           include("pages/project_detail.php");
           break;
 
+        case 'project_women_empowerment':
+          include("pages/projects/women_empowerment1.php");
+          break;
+
         default:
           include("pages/home.php");
           break;
@@ -191,10 +195,7 @@
                     class="ft-logo-1"
                     src="assets/images/huzzfoundLG.png"
                     alt="blog" />
-                  <img
-                    class="ft-logo-2"
-                    src="assets/images/huzzfoundLG.png"
-                    alt="blog" />
+                  <img class="ft-logo-2" src="assets/images/huzzlogo1.png" alt="blog">
                 </div>
                 <p>
                   Join us in creating lasting change. Whether
@@ -264,7 +265,7 @@
                     </li>
                     <li><i class="fi flaticon-call"></i>+000123456789</li>
                     <li>
-                      <i class="fi flaticon-envelope"></i>huzaifafoundation@gmail.com
+                      <i class="fi flaticon-envelope"></i>info@huzaifafoundation.org
                     </li>
                   </ul>
                 </div>
@@ -341,7 +342,5 @@
   <!-- Custom script for this template -->
   <script src="assets/js/script.js"></script>
 </body>
-
-<!-- Mirrored from themepresss.com/tf/html/sadakat-live/?page=About by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 May 2023 09:08:53 GMT -->
 
 </html>

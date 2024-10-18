@@ -125,7 +125,7 @@
                 <img src="assets/images/gallery/women-4.jpg" alt="">
                 <div class="video-btn">
                    <ul>
-                      <li><a href="https://www.youtube.com/embed/uQBL7pSAXR8?autoplay=1" class="video-btn" data-type="iframe">
+                      <li> <a href="assets/videos/huzzFoundVid1.mp4" class="video-btn" data-type="iframe">
                             <i class="fi flaticon-play-button"></i>
                          </a>
                       </li>

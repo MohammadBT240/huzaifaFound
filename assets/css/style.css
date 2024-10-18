@@ -4950,6 +4950,7 @@ ul {
   width: calc(33.33% - 2px);
   float: left;
   margin: 0 1px;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 991px) {
@@ -5352,7 +5353,7 @@ breadcumb-style
 
 .tp-breadcumb-area {
   background: url(../images/breadcumb/img-1.jpg) no-repeat center top / cover;
-  min-height: 350px;
+  min-height: 250px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -7576,6 +7577,13 @@ breadcumb-style
 
 .cng-btn-2 {
   display: none;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 /*----------------------------------------------
